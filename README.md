@@ -1,17 +1,16 @@
-# NeedInk
+# NeedInk — Application de réservation de tatouage
 
-Projet de prise de rendez-vous (tattoo / services) - PHP 8.1 + MySQL (MAMP).
+Projet réalisé dans le cadre du Titre Professionnel
+Développeur Web et Web Mobile (DWWM).
 
-## Prérequis
-- MAMP (Apache + MySQL)
-- PHP 8.1
-- phpMyAdmin
+## Fonctionnalités
+- Authentification sécurisée
+- Prise de rendez-vous avec calcul des disponibilités
+- Gestion admin des rendez-vous (CRUD)
+- Base de données relationnelle MySQL
 
-## Lancer le projet
-1. Démarrer MAMP (Apache + MySQL)
-2. Mettre le projet dans `/Applications/MAMP/htdocs/needink`
-3. Ouvrir `http://localhost:8888/needink/`
-
-## Base de données
-- Nom : NeedInk
-- Tables créées via phpMyAdmin
+## Technologies
+- PHP (PDO)
+- MySQL
+- HTML / CSS
+- Git / GitHub
